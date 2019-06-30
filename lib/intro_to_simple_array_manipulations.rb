@@ -47,5 +47,5 @@ def using_delete(green_curry, rice)
 end
 
 def using_delete_at(yellow_curry)
-  yellow_curry.delete(2)
+  yellow_curry.delete_at(2)
 end
