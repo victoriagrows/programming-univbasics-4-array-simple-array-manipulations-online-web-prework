@@ -30,6 +30,6 @@ def using_concat(favorite1, favorite2)
   favorite1.concat(favorite2)
 end
 
-def using_insert()
-  
+def using_insert(programming, another_language)
+  programming.insert()
 end
