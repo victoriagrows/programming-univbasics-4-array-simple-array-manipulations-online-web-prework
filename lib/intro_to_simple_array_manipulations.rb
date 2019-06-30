@@ -43,7 +43,7 @@ def using_flatten(red_curry)
 end
 
 def using_delete(green_curry, rice)
-  green_curry.delete 
+  green_curry.delete(rice)
 end
 
 def using_delete_at(yellow_curry)
