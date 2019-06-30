@@ -38,4 +38,7 @@ def using_uniq(curry)
   curry.uniq 
 end
 
+def using_flatten(red_curry)
+  red_curry.flatten
+end
 
