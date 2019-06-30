@@ -33,3 +33,9 @@ end
 def using_insert(programming, another_language)
   programming.insert(4, another_language)
 end
+
+def using_uniq(curry)
+  curry.uniq 
+end
+
+
