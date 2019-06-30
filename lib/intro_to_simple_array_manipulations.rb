@@ -31,5 +31,5 @@ def using_concat(favorite1, favorite2)
 end
 
 def using_insert(programming, another_language)
-  programming.insert()
+  programming.insert(4, another_language)
 end
