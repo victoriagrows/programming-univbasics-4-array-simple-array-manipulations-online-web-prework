@@ -42,6 +42,10 @@ def using_flatten(red_curry)
   red_curry.flatten
 end
 
-def using_flatten(red_curry)
-  red_curry.flatten
+def using_delete(green_curry)
+  green_curry.delete 
+end
+
+def using_delete_at(yellow_curry)
+  yellow_curry.delete(2)
 end
