@@ -42,3 +42,6 @@ def using_flatten(red_curry)
   red_curry.flatten
 end
 
+def using_flatten(red_curry)
+  red_curry.flatten
+end
